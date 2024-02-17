@@ -32,4 +32,25 @@ tools: Grasshopper (Rhinoceros 3d 7), Hops, EarthEngine, Geojson, Json, Scikit-l
 ![](visuals/SingaCement-02.png)
 
 ##  References
-- "Behavioral state resource selection in invasive wild pigs in the Southeastern United States," [Nature](https://www.nature.com/articles/s41598-021-86363-3#Tab2).
+  F. Biljecki[ISPRS Annals](https://doi.org/10.5194/isprs-annals-VI-4-W1-2020-37-2020)  
+  Dirk E. Hebel and Felix Heisel. Fraunhofer IRB Verlag
+- Architectural Intelligence Volume 2, Article Number: 3 (2023), Enhanced Databases on City’s Building Material Stock.  
+  Areti Markopoulou, Oana Taut, Hesham Shawqy  
+  [Link](https://link.springer.com/article/10.1007/s44223-023-00021-4)
+- Green Strategy Singapore 2030.A comprehensive plan aimed at enhancing green spaces and biodiversity across Singapore.[NParks](https://www.nparks.gov.sg)
+- Zero Waste Masterplan. Singapore's roadmap towards achieving a sustainable, resource-efficient future with zero waste.[NEA](https://www.nea.gov.sg)
+- Masterplan Singapore 2019. [Urban Redevelopment Authority (URA) Singapore Maps](https://www.ura.gov.sg/maps)
+- [Singastat](https://www.singstat.gov.sg/)
+- [Data.gov.sg](https://data.gov.sg/)
+- [OpenStreetMap](https://www.openstreetmap.org/)
+- [Building and Construction Authority (BCA) Singapore](https://www1.bca.gov.sg)
+- [Housing & Development Board (HDB) Singapore](https://www.hdb.gov.sg/)
+- Code for Adding the HDB CSV to OSM Map. F. Biljecki. [GitHub Repository](https://github.com/ualsg/hdb3d-code/blob/master/CITATION)
+- Areti Markopoulou. [Responsive City Proceedings](https://iaac.net/wp-content/uploads/pdf/RCS_19_Proceedings.pdf)
+- Xining Yang, Mingming Hu, Chunbo Zhang, Bernhard Steubing. [Journal of Cleaner Production](https://doi.org/10.1016/j.resconrec.2022.106215)
+- [Circular Prague](https://klima.praha.eu/en/circular-economy.html)
+- [Circle Economy](https://www.circle-economy.com/)
+- Schoonschip Amsterdam. [Greenprint](https://greenprint.schoonschipamsterdam.org/)  
+- [Metabolic Publications](https://www.metabolic.nl/publications/cleantech-playground/)
+- Taisugar Circular Village. [BioArch](https://www.bioarch.com.tw/work/taisugar-s-circular-village)
+- Second Life Machine Learning Classification of Reuse Materials. [IAAC Blog](https://www.iaacblog.com/programs/second-life-aia/)

@@ -17,6 +17,7 @@ tools: Grasshopper (Rhinoceros 3d 7), Hops, EarthEngine, Geojson, Json, Scikit-l
 - Generation of scenarios of neighborhood renovation applying the evolutional ML of Wallacey.
 - Methods of overlappind map data with Grasshopper and QGIS.
 - Methodology-development of scientific research project.
+- Map generation with Networkx, OSMNX, Geopandas.
 - Processing of complex-layered maps.
 - Merging BIM and GIS to ETL
 
@@ -28,12 +29,12 @@ tools: Grasshopper (Rhinoceros 3d 7), Hops, EarthEngine, Geojson, Json, Scikit-l
 - Singapore develops and implements several schemes for the updating energy-efficiency of housings.
 
 ## Data visualization
-### Singapore map of built outprint.
+### Singapore map of built landscape.
 ![](visuals/SingaCement-02.png)
+### Timeline of Singapore's urban growth.
+![](visuals/SingaCement-06.png)
 
 ##  References
--  F. Biljecki[ISPRS Annals](https://doi.org/10.5194/isprs-annals-VI-4-W1-2020-37-2020)  
-- Dirk E. Hebel and Felix Heisel. Fraunhofer IRB Verlag
 - Urban mining. Scoping resources for circular construction. Areti Markopoulou, Oana Taut, Hesham Shawqy  [Link](https://link.springer.com/article/10.1007/s44223-023-00021-4)
 - Green Strategy Singapore 2030.A comprehensive plan aimed at enhancing green spaces and biodiversity across Singapore.[NParks](https://www.nparks.gov.sg)
 - Zero Waste Masterplan. Singapore's roadmap towards achieving a sustainable, resource-efficient future with zero waste.[NEA](https://www.nea.gov.sg)
@@ -52,3 +53,5 @@ tools: Grasshopper (Rhinoceros 3d 7), Hops, EarthEngine, Geojson, Json, Scikit-l
 - [Metabolic Publications](https://www.metabolic.nl/publications/cleantech-playground/)
 - Taisugar Circular Village. [BioArch](https://www.bioarch.com.tw/work/taisugar-s-circular-village)
 - Second Life Machine Learning Classification of Reuse Materials. [IAAC Blog](https://www.iaacblog.com/programs/second-life-aia/)
+- F. Biljecki[ISPRS Annals](https://doi.org/10.5194/isprs-annals-VI-4-W1-2020-37-2020)  
+- Dirk E. Hebel and Felix Heisel. Fraunhofer IRB Verlag

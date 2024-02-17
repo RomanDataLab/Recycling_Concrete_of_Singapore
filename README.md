@@ -34,9 +34,7 @@ tools: Grasshopper (Rhinoceros 3d 7), Hops, EarthEngine, Geojson, Json, Scikit-l
 ##  References
 -  F. Biljecki[ISPRS Annals](https://doi.org/10.5194/isprs-annals-VI-4-W1-2020-37-2020)  
  - Dirk E. Hebel and Felix Heisel. Fraunhofer IRB Verlag
-- Architectural Intelligence Volume 2, Article Number: 3 (2023), Enhanced Databases on City’s Building Material Stock.  
--  Areti Markopoulou, Oana Taut, Hesham Shawqy  
-  [Link](https://link.springer.com/article/10.1007/s44223-023-00021-4)
+- Architectural Intelligence Volume 2, Article Number: 3 (2023), Enhanced Databases on City’s Building Material Stock. Areti Markopoulou, Oana Taut, Hesham Shawqy  [Link](https://link.springer.com/article/10.1007/s44223-023-00021-4)
 - Green Strategy Singapore 2030.A comprehensive plan aimed at enhancing green spaces and biodiversity across Singapore.[NParks](https://www.nparks.gov.sg)
 - Zero Waste Masterplan. Singapore's roadmap towards achieving a sustainable, resource-efficient future with zero waste.[NEA](https://www.nea.gov.sg)
 - Masterplan Singapore 2019. [Urban Redevelopment Authority (URA) Singapore Maps](https://www.ura.gov.sg/maps)

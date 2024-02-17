@@ -1,6 +1,7 @@
 # Recycling_Concrete_of_Singapore
 ## Research of urban mining and strategy of the circular construction industry for Singapore. </br>
 team: Reda Petravičiūtė, Naohiro Miyaguchi, Roman Pomazan</br>
+[IAAC blog link](https://blog.iaac.net/urban-mining-in-the-city-of-pre-cast-concrete/)
 The project strategically targets public housing as a place of densification and a source of urban mining, aiming to solve the problem of upcoming precast concrete waste. Therefore a circular micro-district design proposal is created, focusing on processes (new circular hubs, proximity of material distribution), materials (pre-cast modules with upcycled materials) and environment (bioclimatic conditions improvement), applied both in district and city scale. </br>
 tools: Grasshopper (Rhinoceros 3d 7), Hops, EarthEngine, Geojson, Json, Scikit-learn, QGIS, illustrator, Photoshop, Urbano, Wallacey, Shrimp, Decoding Spaces.
 

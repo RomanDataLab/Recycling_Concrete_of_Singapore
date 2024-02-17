@@ -29,7 +29,7 @@ tools: Grasshopper (Rhinoceros 3d 7), Hops, EarthEngine, Geojson, Json, Scikit-l
 
 ## Data visualization
 ### Singapore map of built outprint.
-![](SingaCement-02.png)
+![](visuals/SingaCement-02.png)
 
 ##  References
 - "Behavioral state resource selection in invasive wild pigs in the Southeastern United States," [Nature](https://www.nature.com/articles/s41598-021-86363-3#Tab2).

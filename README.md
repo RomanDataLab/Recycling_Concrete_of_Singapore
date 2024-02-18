@@ -45,7 +45,7 @@ tools: Grasshopper (Rhinoceros 3d 7), Hops, EarthEngine, Geojson, Json, Scikit-l
 - [OpenStreetMap](https://www.openstreetmap.org/)
 - [Building and Construction Authority (BCA) Singapore](https://www1.bca.gov.sg)
 - [Housing & Development Board (HDB) Singapore](https://www.hdb.gov.sg/)
-- ISPRS Annals of Photogrammetry, Remote Sensing and Spatial Information Sciences. F. Biljecki. Exploration of open data in Southeast Asia to generate 3D building models. [VI-4/W1-2020](10.5194/isprs-annals-vi-4-w1-2020-37-2020)
+- ISPRS Annals of Photogrammetry, Remote Sensing and Spatial Information Sciences. F. Biljecki. Exploration of open data in Southeast Asia to generate 3D building models. [VI-4/W1-2020](https://isprs-annals.copernicus.org/articles/VI-4-W1-2020/37/2020/)
 - Areti Markopoulou. Responsive City Proceedings
 - Xining Yang, Mingming Hu, Chunbo Zhang, Bernhard Steubing. [Journal of Cleaner Production](https://doi.org/10.1016/j.resconrec.2022.106215)
 - [Circular Prague](https://klima.praha.eu/en/circular-economy.html)

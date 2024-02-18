@@ -32,8 +32,16 @@ tools: Grasshopper (Rhinoceros 3d 7), Hops, EarthEngine, Geojson, Json, Scikit-l
 ## Data visualization
 ### Singapore map of built landscape.
 ![](visuals/SingaCement-02.png)
-### Timeline of Singapore's urban growth.
+### Timeline of the Singapore's urban growth.
 ![](visuals/SingaCement-06.png)
+### Methodology for identification of typologies of buildings.
+![](visuals/SingaCement-11.png)
+### Mapping distribution of building typologies.
+![](visuals/SingaCement-12.png)
+### Mapping distribution of building typologies. Heritage lowrise residences
+![](visuals/SingaCement-14.png)
+### BIM models of main typologies. Calculation of material share.
+![](visuals/SingaCement-23.png)
 
 ##  References
 - Urban mining. Scoping resources for circular construction. Areti Markopoulou, Oana Taut, Hesham Shawqy  [Link](https://link.springer.com/article/10.1007/s44223-023-00021-4)

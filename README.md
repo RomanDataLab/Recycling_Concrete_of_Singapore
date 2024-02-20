@@ -55,18 +55,57 @@ tools: Grasshopper (Rhinoceros 3d 7), Hops, EarthEngine, Geojson, Json, Scikit-l
 ![](visuals/SingaCement-29.png)
 ### Strategy map of the recycling densification.
 ![](visuals/SingaCement-34.png)
-### Map of proposed blocks for the recycling densification.
+### Map of proposed blocks for the recycling densification. 2023-2025
 ![](visuals/SingaCement-36.png)
-### Map of future development zones that adopt the recycling densification.
+### Map of future development zones that adopt the recycling densification. 2025-2030
 ![](visuals/SingaCement-37.png)
+### Map of future development zones that adopt the recycling densification. 2030-2035
+![](visuals/SingaCement-38.png)
+### Map of future development zones that adopt the recycling densification.2035-2040
+![](visuals/SingaCement-39.png)
+### Map of clustered blocks for the intervention of the circular construction.
+![](visuals/SingaCement-45.png)
+### Map of the selected microdicstirct for the recycling densification.
+![](visuals/SingaCement-46.png)
+### BIM Axonometry of the selected microdicstirct before renovation.
+![](visuals/SingaCement-47.png)
+### Scheme of objectives for the recycling densification on the example of microdistrict renovation.
+![](visuals/SingaCement-48.png)
+### Modularity scheme of the recycling densification.
+![](visuals/SingaCement-49.png)
+### Scheme of material flow in building scale. BIM
+![](visuals/SingaCement-50.png)
+### Scheme of material flow in residential unit scale. BIM
+![](visuals/SingaCement-51.png)
+### Scheme of material collection and recycling facilities of the pilot project. BIM
+![](visuals/SingaCement-52.png)
+### Scheme of undeground expansion within the pilot project. BIM
+![](visuals/SingaCement-53.png)
+### Scheme of volume extraction within the pilot project. BIM
+![](visuals/SingaCement-54.png)
+### Scheme of facade renovation within the pilot project. BIM
+![](visuals/SingaCement-55.png)
+### Scheme of lateral expansions of buildings within the pilot project. BIM
+![](visuals/SingaCement-56.png)
+### Scheme of bridge expansions between buildings within the pilot project. BIM
+![](visuals/SingaCement-57.png)
+### Scheme of upper expansions of buildings within the pilot project. BIM
+![](visuals/SingaCement-58.png)
+### BIM Axonometry of the selected microdicstirct after renovation.
+![](visuals/SingaCement-59.png)
 
 ## Strategy proposal
-To identify public housing mines and the materials they contain, we employed a rule-based algorithm and facade recognition tool. It has helped us to identify 12 material sub-typologies of buildings and revealed that the dominant building typology  is residential high rise, that constitutes  more than half  of the total typologies’ gross floor area (GFA) in Singapore.
-By assigning percentages to each building, we observed that pre-cast concrete and concrete emerged as the predominant materials. Furthermore, our analysis revealed that public housing exhibits the highest concentration of pre-cast concrete, emphasizing its significance as an urban mine.
+To identify the materials contained within public housing and their distribution, we utilized a rule-based algorithm alongside a facade recognition tool. This approach enabled us to categorize 12 material sub-typologies within buildings, revealing that the predominant typology is the residential high-rise, which accounts for more than half of the total typologies' gross floor area (GFA) in Singapore. Through assigning percentages to each building type, we found that pre-cast concrete and concrete are the most common materials. Our analysis further highlighted that public housing has the highest concentration of pre-cast concrete, underscoring its importance as an urban mine.
 
-Singapore needs more circular densification approach that would start using existing public housing areas as sources of materials and densification. To address this need, our proposal comprises three key components: a densification strategy, policy considerations, and a design proposal centered around the concept of circular micro districts. First question tries to answer how can Singapore break free from linear urbanization to empty zones?
-We’ve discovered that there is no need to build in reserved land sites- densification shoud be focused on circular existing housing stock regeneration, avoiding massive pre-cast waste. The map displays the current gross floor area (GFA) of public housing in violet. By densifying future development sites (brown color), we can achieve just half of the maximum potential GFA for public housing (white colors), accommodating the influx of 1.4 million people.
-Once the potential of strategic renovation is unlocked, how should we limit material waste of densification processes and upcycle concrete? For the previously mentioned areas, we  apply the concept of circular micro-districts, which is implements in  both the city and district scales. They are defined as  an existing public housing territories of varying sizes that have reached a 50-year lifespan, but the principles can be applied to a new development as well.
+Singapore requires a more circular approach to densification, leveraging existing public housing as sources of materials and for densification efforts. Our proposal includes three main elements: a densification strategy, policy considerations, and a design proposal focused on the concept of circular micro-districts. The initial question addresses how Singapore can transition from linear urbanization to utilizing empty zones. Our findings suggest that there is no need to develop on reserved land sites; instead, densification should concentrate on regenerating the existing housing stock in a circular manner, thus avoiding significant pre-cast waste. The map illustrates the current GFA of public housing in violet. By densifying future development sites (indicated in brown), we can achieve only half of the maximum potential GFA for public housing (shown in white), accommodating an influx of 1.4 million people.
+
+To unlock the potential for strategic renovation, we must consider how to minimize material waste in densification processes and how to upcycle concrete. For the areas mentioned earlier, we propose applying the concept of circular micro-districts, which are implemented at both city and district scales. These districts are identified as existing public housing areas of various sizes that have reached a 50-year lifespan, although the principles can also be applied to new developments.
+
+In 2017, Singapore launched the Construction Industry Transformation Map, which aims to broadly adopt Design for Manufacturing and Assembly (DfMA) and introduce mass modular construction. To enhance the existing policy, we suggest focusing on modularity as a crucial aspect of circular construction in the future. Modularity incorporates DfMA along with Design to Robotic Production and Assembly, offering a framework for customizable prefabricated modules that integrate five dimensions: a variety of 3D geometry, materials, and nature-based solutions.
+
+The material flow of prefabricated modules is demonstrated in a case study, where existing building materials were categorized into four groups: "recycle," "retrofit," "reuse," and "demolish." To improve building quality, new materials such as hempcrete and Cross-Laminated Timber (CLT) were introduced to reduce CO2 emissions. The project also presents potential scenarios for material upcycling in flats.
+
+Circular micro-districts will be applied across all micro-districts in Singapore, enabling a shift towards acupuncture renovation, contribute to a new generation of the Green Mark Standard with a strong emphasis on reuse and recycling, incentivize the Urban Mining Futures Market, and support the transition to a circular economy. Additionally, they will aid in refining concrete upcycling and its replacement with nature-based materials, helping to make the circular economy a ubiquitous practice and changing the traditional concept of 'business as usual'.
 
 ##  References
 - Urban mining. Scoping resources for circular construction. Areti Markopoulou, Oana Taut, Hesham Shawqy  [Link](https://link.springer.com/article/10.1007/s44223-023-00021-4)

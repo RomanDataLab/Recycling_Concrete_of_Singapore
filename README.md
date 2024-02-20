@@ -65,9 +65,9 @@ tools: Grasshopper (Rhinoceros 3d 7), Hops, EarthEngine, Geojson, Json, Scikit-l
 ![](visuals/SingaCement-39.png)
 ### Map of clustered blocks for the intervention of the circular construction.
 ![](visuals/SingaCement-45.png)
-### Map of the selected microdicstirct for the recycling densification.
+### Map of the selected microdistrict for the recycling densification.
 ![](visuals/SingaCement-46.png)
-### BIM Axonometry of the selected microdicstirct before renovation.
+### BIM Axonometry of the selected microdistrict before renovation.
 ![](visuals/SingaCement-47.png)
 ### Scheme of objectives for the recycling densification on the example of microdistrict renovation.
 ![](visuals/SingaCement-48.png)
@@ -91,8 +91,14 @@ tools: Grasshopper (Rhinoceros 3d 7), Hops, EarthEngine, Geojson, Json, Scikit-l
 ![](visuals/SingaCement-57.png)
 ### Scheme of upper expansions of buildings within the pilot project. BIM
 ![](visuals/SingaCement-58.png)
-### BIM Axonometry of the selected microdicstirct after renovation.
+### BIM Axonometry of the selected microdistrict after renovation.
 ![](visuals/SingaCement-59.png)
+### BIM Axonometry of the selected microdistrict with proposed application of nature-based solutions.
+![](visuals/SingaCement-60.png)
+### BIM Axonometry of the selected microdistrict with differentiation of mixed use.
+![](visuals/SingaCement-61.png)
+### BIM Axonometry of the selected microdistrict with proposed application of nature-based solutions.
+![](visuals/SingaCement-62.png)
 
 ## Strategy proposal
 To identify the materials contained within public housing and their distribution, we utilized a rule-based algorithm alongside a facade recognition tool. This approach enabled us to categorize 12 material sub-typologies within buildings, revealing that the predominant typology is the residential high-rise, which accounts for more than half of the total typologies' gross floor area (GFA) in Singapore. Through assigning percentages to each building type, we found that pre-cast concrete and concrete are the most common materials. Our analysis further highlighted that public housing has the highest concentration of pre-cast concrete, underscoring its importance as an urban mine.

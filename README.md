@@ -113,6 +113,18 @@ The material flow of prefabricated modules is demonstrated in a case study, wher
 
 Circular micro-districts will be applied across all micro-districts in Singapore, enabling a shift towards acupuncture renovation, contribute to a new generation of the Green Mark Standard with a strong emphasis on reuse and recycling, incentivize the Urban Mining Futures Market, and support the transition to a circular economy. Additionally, they will aid in refining concrete upcycling and its replacement with nature-based materials, helping to make the circular economy a ubiquitous practice and changing the traditional concept of 'business as usual'.
 
+## Piece of code
+- Data mining and map creation. [Python Source>>](IoB_01_Singa_start.ipynb)
+- Analysis of data quality and map preprocessing with Geopandas. [Python Source>>](IoB_06_Singa_scrapeOSM_modify.ipynb)
+- Merging geodatasets. [Python Source>>](IoB_07_OSM_mergeclean.ipynb)
+- Enriching datasets via semantic analysis. [Python Source>>](IoB_08_Singa_enrichtable.ipynb)
+- Merging and dissolving geodatasets. [Python Source>>](IoB_09_join_gm+conserved.ipynb)
+- Preprocessing json dataset for merging, json to csv. [Python Source>>](IoB_11_SInga_json_to_csv.ipynb)
+- Merging csv with geopandas dataset. [Python Source>>](IoB_12_Singa_join_HDB.ipynb)
+- NaN conversion in geodataset. [Python Source>>](IoB_13_Singa_repairNaN_bl.ipynb)
+- Geocoding map from OSM. [Python Source>>](IoB_Singa_buildings.ipynb)
+
+
 ##  References
 - Urban mining. Scoping resources for circular construction. Areti Markopoulou, Oana Taut, Hesham Shawqy  [Link](https://link.springer.com/article/10.1007/s44223-023-00021-4)
 - Green Strategy Singapore 2030.A comprehensive plan aimed at enhancing green spaces and biodiversity across Singapore.[NParks](https://www.nparks.gov.sg)

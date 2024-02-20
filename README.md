@@ -12,6 +12,7 @@ tools: Grasshopper (Rhinoceros 3d 7), Hops, EarthEngine, Geojson, Json, Scikit-l
 
 ## What I learned: 
 - Data mining with Earth Engine, Json and OSMNX.
+- Openstreetmap dat about buildings is not sufficient and biased, thus in order to make a reliable dataset we have to clean and enrich OSM data with data from official sources or ML recognized polygons from satellite images, 
 - Data cleaning and preparation.
 - Data creation with Scikit-learn.
 - Data vizualisation for analysis.
@@ -44,6 +45,8 @@ tools: Grasshopper (Rhinoceros 3d 7), Hops, EarthEngine, Geojson, Json, Scikit-l
 ![](visuals/SingaCement-23.png)
 ### Distribution of materials in buildings. Machine learning prediction.
 ![](visuals/SingaCement-24.png)
+### Distribution of lease end in residential blocks. Machine learning prediction of ready-to-recycle concrete.
+![](visuals/SingaCement-26.png)
 
 ##  References
 - Urban mining. Scoping resources for circular construction. Areti Markopoulou, Oana Taut, Hesham Shawqy  [Link](https://link.springer.com/article/10.1007/s44223-023-00021-4)

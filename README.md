@@ -26,8 +26,10 @@ tools: Grasshopper (Rhinoceros 3d 7), Hops, EarthEngine, Geojson, Json, Scikit-l
 ## Key takeaways
 - Singapore resolves the housing issue by a unique approach of maintaining the Lion's part of public-funded residences that are leased for 100 years.
 - Dominating part of construction materials consists of different states of concrete.
-- Singapore is one of the main hubs of concrete processing i.e. importer of concrete aggregates, and the main innovation hub for reused concrete upcycling.
-- In 40-60 years the majority of concrete housings will meet the challenge of outdated level of zero-carbon embedded emissions.
+- Constant densification leads to material waste.
+- Singapore is one of the main hubs of concrete processing in Asia i.e. importer of concrete aggregates, and the main innovation hub for reused concrete upcycling.
+- In 2022 Singapore is downcycling 99% of concrete, nevetheless it is just a tiny share of imported concrete, thus the concrete waste issue is gradually aggregated.
+- In 40-60 years the majority of Singapore concrete housings will meet the challenge of the outdated level of zero-carbon embedded emissions.
 - Singapore develops and implements several schemes for the updating energy-efficiency of housings.
 
 ## Data visualization
@@ -45,8 +47,26 @@ tools: Grasshopper (Rhinoceros 3d 7), Hops, EarthEngine, Geojson, Json, Scikit-l
 ![](visuals/SingaCement-23.png)
 ### Distribution of materials in buildings. Machine learning prediction.
 ![](visuals/SingaCement-24.png)
-### Distribution of lease end in residential blocks. Machine learning prediction of ready-to-recycle concrete.
+### Distribution of lease end in residential blocks, future urban mining sites. Machine learning prediction of ready-to-recycle concrete.
 ![](visuals/SingaCement-26.png)
+### Map of future development zones showing the urban densification.
+![](visuals/SingaCement-27.png)
+### Map of reserved land sites for the urban densification.
+![](visuals/SingaCement-29.png)
+### Strategy map of the recycling densification.
+![](visuals/SingaCement-34.png)
+### Map of proposed blocks for the recycling densification.
+![](visuals/SingaCement-36.png)
+### Map of future development zones that adopt the recycling densification.
+![](visuals/SingaCement-37.png)
+
+## Strategy proposal
+To identify public housing mines and the materials they contain, we employed a rule-based algorithm and facade recognition tool. It has helped us to identify 12 material sub-typologies of buildings and revealed that the dominant building typology  is residential high rise, that constitutes  more than half  of the total typologies’ gross floor area (GFA) in Singapore.
+By assigning percentages to each building, we observed that pre-cast concrete and concrete emerged as the predominant materials. Furthermore, our analysis revealed that public housing exhibits the highest concentration of pre-cast concrete, emphasizing its significance as an urban mine.
+
+Singapore needs more circular densification approach that would start using existing public housing areas as sources of materials and densification. To address this need, our proposal comprises three key components: a densification strategy, policy considerations, and a design proposal centered around the concept of circular micro districts. First question tries to answer how can Singapore break free from linear urbanization to empty zones?
+We’ve discovered that there is no need to build in reserved land sites- densification shoud be focused on circular existing housing stock regeneration, avoiding massive pre-cast waste. The map displays the current gross floor area (GFA) of public housing in violet. By densifying future development sites (brown color), we can achieve just half of the maximum potential GFA for public housing (white colors), accommodating the influx of 1.4 million people.
+Once the potential of strategic renovation is unlocked, how should we limit material waste of densification processes and upcycle concrete? For the previously mentioned areas, we  apply the concept of circular micro-districts, which is implements in  both the city and district scales. They are defined as  an existing public housing territories of varying sizes that have reached a 50-year lifespan, but the principles can be applied to a new development as well.
 
 ##  References
 - Urban mining. Scoping resources for circular construction. Areti Markopoulou, Oana Taut, Hesham Shawqy  [Link](https://link.springer.com/article/10.1007/s44223-023-00021-4)
